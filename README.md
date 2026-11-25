@@ -40,7 +40,7 @@ The Power BI report includes:
 - Business Intelligence
 
 # Dashboard Preview
-"Power BI Brewery Dashboard" (PowerBI_Dashboard.png)
+[Power BI Dashboard](PowerBI_Dashboard.png)
 Project Files
 - "Brewery Report Power BI.pbix" – Power BI report containing the dashboards and visualizations.
 - "PowerBI_Dashboard.png" – Screenshot of the main dashboard.
