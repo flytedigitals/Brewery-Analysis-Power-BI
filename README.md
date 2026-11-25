@@ -48,6 +48,3 @@ This project strengthened my practical skills in data preparation, exploratory d
 
 # Author
 Naiwo Oluwaseyi
-Author
-
-Naiwo Oluwaseyi
