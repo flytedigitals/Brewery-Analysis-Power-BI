@@ -50,5 +50,3 @@ This project strengthened my practical skills in data preparation, business inte
 
 # Author
 Naiwo Oluwaseyi Ifeoluwa
-
-GitHub: https://github.com/flytedigitals
