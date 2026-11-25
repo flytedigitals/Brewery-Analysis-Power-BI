@@ -1,6 +1,6 @@
-# Brewery-Analysis-Power-BI
-Brewery sales and profitabilty analysis using Microsoft Power BI, featuring interactive dashboards and business intelligence reporting.
-The aim was to explore sales performance and profitability across different African countries, product brands, months, and years and present the findings through an interactive dashboard.
+# Brewery Sales and Profitability Analysis using Microsoft Power BI
+This involves the creation, preparation, cleaning, analysis, and visualization of a simulated brewery sales dataset using Microsoft Power BI.
+The objective was to explore sales performance and profitability across different African countries, product brands, months, and years through interactive business intelligence reports and dashboards.
 
 # Dataset Description
 The dataset was independently created for this project and contains:
@@ -9,42 +9,46 @@ The dataset was independently created for this project and contains:
 - 10 beer brands
 - 12 months of sales data
 - Yearly records covering 2017–2026
-The dataset includes information such as sales representatives, brands, plant costs, unit prices, quantities, total costs, profits, countries, regions, months, and years.
+The dataset includes sales representatives, brands, plant costs, unit prices, quantities, total costs, profits, countries, regions, months, and years.
 
 # Data Preparation and Analysis
 The following activities were performed:
-- Created the dataset for the analysis.
-- Cleaned and prepared the data for visualization.
-- Examined sales and profitability patterns.
+- Created the dataset specifically for the project.
+- Cleaned and prepared the data for analysis and visualization.
+- Explored sales and profitability patterns.
 - Compared brand performance across different markets.
-- Analyzed profitability across countries and regions.
-- Explored monthly and yearly profit distributions.
+- Analyzed country-level profitability.
+- Examined monthly and yearly profit trends.
 
 # Dashboard Features
-The interactive Excel dashboard includes:
+The Power BI report includes:
 - Total Profit KPI
-- Brand performance analysis
-- Countries with the highest profits
+- Brand performance and quantity analysis
+- Country-level profit comparisons
+- Yearly profit analysis
 - Monthly profit distribution
-- Yearly profit comparisons
-- Interactive filters for years, countries, and brands
+- Interactive filters for countries, brands, and years
+- Multiple report pages for exploring business performance
 
 # Tools and Technologies
-- Microsoft Excel
-- PivotTables
-- Charts and Data Visualization
-- Interactive Slicers
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
+- Microsoft Power BI
+- Power Query
+- Data Cleaning and Transformation
+- Data Modeling
+- Data Visualization
+- Interactive Dashboards
+- Business Intelligence
 
 # Dashboard Preview
-"Brewery Excel Dashboard" (My%20Dashboard.png)
+"Power BI Brewery Dashboard" (PowerBI_Dashboard.png)
 Project Files
-- "brewery report.xlsx" – Excel workbook containing the dataset, analysis, and dashboard.
-- "My Dashboard.png" – Screenshot of the completed dashboard.
+- "Brewery Report Power BI.pbix" – Power BI report containing the dashboards and visualizations.
+- "PowerBI_Dashboard.png" – Screenshot of the main dashboard.
 
 # Key Learning Outcomes
-This project strengthened my practical skills in data preparation, exploratory data analysis, business reporting, and interactive dashboard development using Microsoft Excel.
+This project strengthened my practical skills in data preparation, business intelligence, data visualization, interactive reporting, and analytical problem-solving using Microsoft Power BI.
 
 # Author
-Naiwo Oluwaseyi
+Naiwo Oluwaseyi Ifeoluwa
+
+GitHub: https://github.com/flytedigitals
